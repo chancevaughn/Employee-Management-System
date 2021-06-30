@@ -12,10 +12,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chancevaughn/Employee-Management-System/issues"
-  },
-  "homepage": "https://github.com/chancevaughn/Employee-Management-System#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "dotenv": "^10.0.0",
